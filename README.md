@@ -23,7 +23,7 @@ Variations include:
 - **PoleMounterSingle** has a slot on the other side that takes a hex nut, which a screw can be screwed into.
 The screw creates a stud, which an object with a keyhole hanger can be attached to.
   - Note, nominal dimensions for screw hexes:
-    - M3: normal fit clearance 3.45mm, W 6.0mm, D 2.4mm
+    - M3: normal fit clearance 3.45mm, W 5.5mm, D 2.4mm
     - M4: normal fit clearance 4.5mm, W 7.0mm, D 3.2mm
 - **PoleMounterAP303H** mounts an Aruba AP-303H access point using the keyhole slot.
 
