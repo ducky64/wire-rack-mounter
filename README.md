@@ -33,3 +33,11 @@ These designs follow and older architecture and eventually will be cleaned up - 
 - **WireRackMounterPerpendicularPole** has a hole to mount a smaller pole perpendicularly to the main shelving unit pole. This can be used to, for example, mount lights or other devices offset from the main pole.
   - This is designed to work with a system of 10mm poles. These are commonly part of systems with M8 threads and include mating goosenecks.
   - This object has two bodies, the main mount and a pad. The pad clamps the smaller pole, with clamping tension from screws.
+
+
+## Adapters
+**HexNutAdapter** is a parameterized nut adapter that adapts a metal M2 nut into a 3d printed M3 nut.
+This allows use of M2 nuts and screws in the pole mounter sized for M3.
+
+Dimensions are critical, and as-is, this barely prints on a 0.4mm nozzle and is a snug fit into the pole mounter.
+If a brim is needed, I've found a brim separation gap helps make removing the brim cleanly easier. I've had good luck with 0.4mm gap.
